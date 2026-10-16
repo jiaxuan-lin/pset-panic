@@ -1,10 +1,10 @@
 # PSET PANIC by Jiaxuan Lin
 
-A Canvas boss battle: fight your way to submitting your 6.1000 problem set that is due very soon...
+A Canvas boss battle: fight your way to submitting your 6.1000 problem set that is due in 12 minutes...
 
 ▶ Play it in browser: https://jiaxuan-lin.github.io/pset-panic/
 
-It's 11:47 PM and Problem Set 5 is due at 11:59. The page looks like a normal Canvas dashboard, but four bosses guard every step between you and the Turn In button. Your cursor is your character, so dodge their various attacks, fight back, and submit that PSET anyways.
+It's 11:47 PM and Problem Set 5 is due at 11:59. The page looks like a normal Canvas dashboard, but four bosses guard every step between you and the Turn In button. Your cursor is your character, so dodge their various attacks, fight back, and submit that PSET anyway.
 
 ## How to play
 
@@ -35,5 +35,9 @@ One self-contained `index.html` file: plain HTML, CSS and JavaScript with a `<ca
 
 Created when experimenting with Factory's Droid at the MIT Women in EECS event on Oct 15 2026. 
 Done with just one prompt and difficulty scaling afterwards. Presented.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 *Fan-made parody. Not affiliated with Instructure, Canvas, or MIT.*
